@@ -119,6 +119,7 @@ RUN apt-get update \
         graphviz-dev \
         pulseaudio \
         libasound2-dev \
+        libcairo2-dev \
         libdbus-glib-1-dev \
         libgirepository1.0-dev \
         # Install Python
